@@ -5,7 +5,7 @@
 
 - [🌷 Data Structures : Array DS Challenge  🌷](#-data-structures--array-ds-challenge--)
 - [📗 Table of Contents](#-table-of-contents)
-- [📖 \[Rails-Blog\] ](#-rails-blog-)
+- [📖 \[Hackerrank Data Structures Challenge\] ](#-hackerrank-data-structures-challenge-)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [🌸🌷 Key Features ](#-key-features-)
@@ -19,7 +19,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Rails-Blog] <a name="about-project"></a>
+# 📖 [Hackerrank Data Structures Challenge] <a name="about-project"></a>
 *Data Structures: DS Array Challenge* contains 7 posible solutions to the same Hackerrank Challenge. It is important to understand that an Array is a list of Elements and that we can use several methods to solve the same challenge. 
 Some of the methods are bigger some of them smaller.<br/>
 
