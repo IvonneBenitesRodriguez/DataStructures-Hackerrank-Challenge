@@ -35,7 +35,7 @@
   </ul>
   </details>
   <details>
-  <summary>🌷</summary>
+  <summary>Hackerrank Challenges🌷</summary>
   <ul>
     <li><a href="https://www.hackerrank.com/">Hackerrank Challenge🌷</a></li>
   </ul>
