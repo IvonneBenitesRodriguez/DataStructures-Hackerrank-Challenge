@@ -21,7 +21,9 @@
 <!-- PROJECT DESCRIPTION -->
 
 # 📖 [DataStructures-Array] <a name="about-project"></a>
-**Data-Structures** is a repo which includes Hackerrank Challenges mostly about methods to solve Arrays.
+**Data-Structures** is a repo which includes a Hackerrank Challenge named how to reverse an Array of Integers.
+We wrote several methods and some documentation related to it.
+The solutions are in **JavaScript** and **Python**.
 <br/>
 
 ## 🛠 Built With <a name="built-with"></a>
@@ -40,6 +42,12 @@
     <li><a href="https://www.hackerrank.com/">Hackerrank Challenge🌷</a></li>
   </ul>
 </details>
+<details>
+  <summary>Python🌷</summary>
+  <ul>
+    <li><a href="https://docs.python.org/3/">Python🌷</a></li>
+  </ul>
+</details>
 
 ### 🌸🌷 Key Features <a name="key-features"></a>
 - **[Method: Reverse]**
@@ -48,7 +56,7 @@
 - **[Method: Array.from]**
 - **[Method: Slice]**
 - **[Method: Print]**
-
+- **[Method: Slicing syntax usage to make Python perfom reverse functionality]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
