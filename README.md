@@ -20,7 +20,7 @@
 <!-- PROJECT DESCRIPTION -->
 
 # 📖 [Hackerrank Data Structures Challenge] <a name="about-project"></a>
-*Data Structures: DS Array Challenge* contains 7 posible solutions to the same Hackerrank Challenge. It is important to understand that an Array is a list of Elements and that we can use several methods to solve the same challenge. 
+**Data Structures: DS Array Challenge** contains 7 posible solutions to the same Hackerrank Challenge. It is important to understand that an Array is a list of Elements and that we can use several methods to solve the same challenge. 
 Some of the methods are bigger some of them smaller.<br/>
 
 ## 🛠 Built With <a name="built-with"></a>
